@@ -1,6 +1,6 @@
 # New York City Skyline Lightbox
 
-© Taylor Lucas Barrett, 2019
+© 2020, Taylor Lucas Barrett
 
 *Collaborator: Brooks Mershon (Cutting, glueing, dremmeling, drilling assistance 😃🔨🚧 🔧)*
 
@@ -17,3 +17,5 @@ Materials used:
 - Scews and mounting hardware for hanging.
 - Remote control LED light strips with wall power brick.
 - Battery powered LED light strings.
+
+
