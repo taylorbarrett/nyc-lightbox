@@ -6,7 +6,7 @@
 
 Materials used:
 
-- Acryllic lasercut sheets (four contiguous pieces).
+- Acrylic lasercut sheets (four contiguous pieces).
 - Wood dowels between 1/4 inch and 1 inch in diameter.
 - Epoxy.
 - Superglue.
